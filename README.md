@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankjain2023&label=Profile%20views&color=0e75b6&style=flat" alt="mayankjain2023" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MEAN/MERN Stack**
 
 - 📫 How to reach me **mayank1903jain@gmail.com**
 
